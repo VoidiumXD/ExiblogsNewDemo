@@ -1,12 +1,12 @@
-HTTrack3.50-5 launched on Sun, 18 Oct 2026 00:31:42 at http://localhost:2368/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" http://localhost:2368/ -O1 "C:\My Web Sites\GhostExi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.50-5 launched on Sun, 18 Oct 2026 00:49:27 at http://localhost:2368/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" http://localhost:2368/ -O1 "C:\My Web Sites\EXIBlogs" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-00:31:44	Info: 	Note: due to localhost:2368 remote robots.txt rules, links beginning with these path will be forbidden: /ghost/, /email/, /members/api/comments/counts/, /r/, /webmentions/receive/, /.ghost/analytics/api/ (see in the options to disable this)
+00:49:29	Info: 	Note: due to localhost:2368 remote robots.txt rules, links beginning with these path will be forbidden: /ghost/, /email/, /members/api/comments/counts/, /r/, /webmentions/receive/, /.ghost/analytics/api/ (see in the options to disable this)
 
-HTTrack Website Copier/3.50-5 mirror complete in 1 minutes 4 seconds : 46 links scanned, 45 files written (9185045 bytes overall) [6247637 bytes received at 97619 bytes/sec], 3862041 bytes transferred using HTTP compression in 18 files, ratio 23%, 2.3 requests per connection
+HTTrack Website Copier/3.50-5 mirror complete in 22 seconds : 46 links scanned, 45 files written (5095235 bytes overall) [2157752 bytes received at 98079 bytes/sec], 3862070 bytes transferred using HTTP compression in 18 files, ratio 23%, 3.8 requests per connection
 (No errors, 0 warnings, 1 messages)
